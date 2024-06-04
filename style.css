@@ -3,7 +3,8 @@
 * {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	 box-sizing: border-box;
+	 /*Dice que el tamaño de caja se va a mantener estable, no importa si se le añade un padding, el tamaño de caja se quedará con el tamaño indicado y el padding crecerá hacia adentro.*/ 
 }
 
 html {
